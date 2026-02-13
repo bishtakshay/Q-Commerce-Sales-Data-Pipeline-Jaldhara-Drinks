@@ -1,0 +1,36 @@
+Redundant entries removed (duplicates)
+================================================================================
+Header: date_range | source_city_name | brand_name | top_slug | mid_slug | leaf_slug | source_sku_id | sku_description | sku_weight | total_quantity | total_mrp | total_sales |  | 
+================================================================================
+
+RE #1: 20260201 - 20260202 | Mumbai | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 3 | 357 | 296.31 |  | 
+RE #2: 20260201 - 20260202 | Chennai | Chaayos | beverages | tea | leaf-dust-tea | 40348268 | Chaayos adrakh-elaichi-instant-tea-premix 120 g  (15 x 8 g each) | 120 g | 2 | 372 | 322.75 |  | 
+RE #3: 20260201 - 20260202 | Gurgaon | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348271 | Chaayos detox-kahwa-herbal-green-tea 25 pcs | 25 pcs | 1 | 209 | 177.65 |  | 
+RE #4: 20260201 - 20260202 | Mumbai | Chaayos | beverages | tea | leaf-dust-tea | 40348266 | Chaayos adrakh-elaichi-instant-chai-tea 250 g | 250 g | 3 | 897 | 735 |  | 
+RE #5: 20260201 - 20260202 | Chennai | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348269 | Chaayos instant-chai-tea-premix-combo 168 g  (14 g x 12) | 168 g | 1 | 150 | 128.7 |  | 
+RE #6: 20260201 - 20260202 | Hyderabad | Chaayos | beverages | tea | leaf-dust-tea | 40348268 | Chaayos adrakh-elaichi-instant-tea-premix 120 g  (15 x 8 g each) | 120 g | 1 | 209 | 185.01 |  | 
+RE #7: 20260201 - 20260202 | Mumbai | Chaayos | beverages | tea | leaf-dust-tea | 40348268 | Chaayos adrakh-elaichi-instant-tea-premix 120 g  (15 x 8 g each) | 120 g | 3 | 627 | 555.03 |  | 
+RE #8: 20260201 - 20260202 | Gurgaon | Chaayos | beverages | tea | leaf-dust-tea | 40348266 | Chaayos adrakh-elaichi-instant-chai-tea 250 g | 250 g | 6 | 1794 | 1470 |  | 
+RE #9: 20260201 - 20260202 | Pune | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 3 | 318 | 263.94 |  | 
+RE #10: 20260201 - 20260202 | Hyderabad | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40194562 | Chaayos instant-desi-masala-chai-tea 25 pcs | 25 pcs | 1 | 159 | 135.15 |  | 
+RE #11: 20260201 - 20260202 | Bangalore | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 2 | 238 | 188.02 |  | 
+RE #12: 20260201 - 20260202 | Mumbai | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40194790 | Chaayos instant-desi-masala-chai-tea 210 g  (Pack of 15) | 210 g | 1 | 189 | 180 |  | 
+RE #13: 20260201 - 20260202 | Hyderabad | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348269 | Chaayos instant-chai-tea-premix-combo 168 g  (14 g x 12) | 168 g | 1 | 169 | 135.2 |  | 
+RE #14: 20260201 - 20260202 | Chennai | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 1 | 106 | 87.98 |  | 
+RE #15: 20260201 - 20260202 | Gurgaon | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 1 | 106 | 87.98 |  | 
+RE #16: 20260201 - 20260202 | Ahmedabad-Gandhinagar | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348269 | Chaayos instant-chai-tea-premix-combo 168 g  (14 g x 12) | 168 g | 1 | 169 | 145 |  | 
+RE #17: 20260201 - 20260202 | Gurgaon | Chaayos | beverages | tea | leaf-dust-tea | 40348267 | Chaayos desi-masala-chai-tea 250 g | 250 g | 1 | 190 | 150.16 |  | 
+RE #18: 20260201 - 20260202 | Mumbai | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348270 | Chaayos instant-cardamom-tea-premix 210 g  (14 g x 15) | 210 g | 1 | 189 | 170.01 |  | 
+RE #19: 20260201 - 20260202 | Hyderabad Rural | Chaayos | beverages | tea | leaf-dust-tea | 40348266 | Chaayos adrakh-elaichi-instant-chai-tea 250 g | 250 g | 1 | 299 | 245 |  | 
+RE #20: 20260201 - 20260202 | Hyderabad | Chaayos | beverages | tea | leaf-dust-tea | 40348267 | Chaayos desi-masala-chai-tea 250 g | 250 g | 2 | 658 | 506.76 |  | 
+RE #21: 20260201 - 20260202 | Ahmedabad-Gandhinagar | Chaayos | beverages | tea | leaf-dust-tea | 40348268 | Chaayos adrakh-elaichi-instant-tea-premix 120 g  (15 x 8 g each) | 120 g | 1 | 209 | 177.65 |  | 
+RE #22: 20260201 - 20260202 | Chennai | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348270 | Chaayos instant-cardamom-tea-premix 210 g  (14 g x 15) | 210 g | 1 | 168 | 142.8 |  | 
+RE #23: 20260201 - 20260202 | Mysore | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 1 | 119 | 98.77 |  | 
+RE #24: 20260201 - 20260202 | Noida | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348264 | Chaayos instant-peach-iced-tea-premix 220 g  (22 g x 10) | 220 g | 1 | 106 | 87.98 |  | 
+RE #25: 20260201 - 20260202 | Gurgaon | Chaayos | gourmet-world-food | drinks-beverages | gourmet-tea-tea-bags | 40348270 | Chaayos instant-cardamom-tea-premix 210 g  (14 g x 15) | 210 g | 3 | 567 | 500.67 |  | 
+RE #26: 20260201 - 20260202 | Hyderabad | Chaayos | beverages | tea | leaf-dust-tea | 40348266 | Chaayos adrakh-elaichi-instant-chai-tea 250 g | 250 g | 1 | 299 | 239.2 |  | 
+RE #27: 20260201 - 20260202 | Mumbai | Chaayos | beverages | tea | leaf-dust-tea | 40348267 | Chaayos desi-masala-chai-tea 250 g | 250 g | 2 | 658 | 520.02 |  | 
+RE #28: 20260201 - 20260202 | Ahmedabad-Gandhinagar | Chaayos | beverages | tea | leaf-dust-tea | 40348267 | Chaayos desi-masala-chai-tea 250 g | 250 g | 2 | 380 | 300.32 |  | 
+RE #29: 20260201 - 20260202 | Bangalore | Chaayos | beverages | tea | leaf-dust-tea | 40348267 | Chaayos desi-masala-chai-tea 250 g | 250 g | 4 | 1316 | 1040.04 |  | 
+RE #30: 20260201 - 20260202 | Bangalore | Chaayos | beverages | tea | leaf-dust-tea | 40348266 | Chaayos adrakh-elaichi-instant-chai-tea 250 g | 250 g | 12 | 3588 | 2940 |  | 
+RE #31: 20260201 - 20260202 | Gurgaon | Chaayos | beverages | energy-soft-drinks | icetea-non-aerated-drink | 40348265 | Chaayos instant-lemon-iced-tea-premix 220 g  (20 g x 10) | 220 g | 1 | 106 | 87.98 |  | 
