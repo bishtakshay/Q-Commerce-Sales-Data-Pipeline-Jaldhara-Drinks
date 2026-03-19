@@ -1,0 +1,346 @@
+Original CITY,Standardised Name,STATE,REGION,city_id
+Agra,Agra,Uttar Pradesh,North,0207001
+Ahmedabad,Ahmedabad,Gujarat,West,0403001
+Ahmedabad-Gandhinagar,Ahmedabad,Gujarat,West,0403001
+Ahmednagar,Ahmednagar,Maharashtra,West,0405001
+Ajmer,Ajmer,Rajasthan,West,0406001
+Akola,Akola,Maharashtra,West,0405002
+Alappuzha,Alappuzha,Kerala,South,0303001
+Aligarh,Aligarh,Uttar Pradesh,North,0207002
+Allahabad,Allahabad,Uttar Pradesh,North,0207003
+Alwar,Alwar,Rajasthan,West,0406002
+Ambala,Ambala,Haryana,North,0202001
+Amravati,Amravati,Maharashtra,West,0405003
+Amritsar,Chandigarh,Chandigarh,North,0201001
+Anand,Anand,Gujarat,West,0403002
+Ankleshwar,Ankleshwar,Gujarat,West,0403003
+Asansol,Asansol,West Bengal,East,0507001
+Aurangabad,Aurangabad,Maharashtra,West,0405004
+Ayodhya,Ayodhya,Uttar Pradesh,North,0207005
+Baddi,Baddi,Himachal Pradesh,North,0203001
+Bahadurgarh,Bahadurgarh,Haryana,North,0202002
+Ballari,Ballari,Karnataka,South,0302001
+Bangalore,Bangalore,Karnataka,South,0302002
+Bangalore Rural,Bangalore,Karnataka,South,0302002
+Barabanki,Barabanki,Uttar Pradesh,North,0207006
+Bardhaman,Bardhaman,West Bengal,East,0507002
+Bareilly,Bareilly,Uttar Pradesh,North,0207007
+Batala,Chandigarh,Chandigarh,North,0201001
+Bathinda,Chandigarh,Chandigarh,North,0201001
+Begusarai,Begusarai,Bihar,East,0502001
+Belgaum,Belgaum,Karnataka,South,0302003
+Belgavi,Belgaum,Karnataka,South,0302003
+Bengaluru,Bangalore,Karnataka,South,0302002
+Berhampur,Berhampur,Odisha,East,0506001
+Bhagalpur,Bhagalpur,Bihar,East,0502003
+Bharuch,Bharuch,Gujarat,West,0403004
+Bhavnagar,Bhavnagar,Gujarat,West,0403005
+Bhilai,Bhilai,Chhattisgarh,East,0503001
+Bhimavaram,Bhimavaram,Andhra Pradesh,South,0301002
+Bhiwadi,Bhiwadi,Rajasthan,West,0406005
+Bhiwani,Bhiwani,Haryana,North,0202004
+Bhopal,Bhopal,Madhya Pradesh,West,0404001
+bhu_101_wh_hl_01,Unknown,Unknown,Unknown,0601001
+Bhubaneswar,Bhubaneswar,Odisha,East,0506002
+Bhuj,Bhuj,Gujarat,West,0403006
+Bidar,Bidar,Karnataka,South,0302004
+Bihar,Bihar,Bihar,East,0502004
+Bijapur,Bijapur,Karnataka,South,0302005
+BIJNOR,Bijnor,Uttar Pradesh,North,0207009
+Bikaner,Bikaner,Rajasthan,West,0406006
+Bilaspur,Bilaspur,Chhattisgarh,East,0503002
+Bokaro,Bokaro,Jharkhand,East,0504001
+Central Goa,Goa,Goa,West,0402001
+Chandigarh,Chandigarh,Chandigarh,North,0201001
+Chandrapur,Chandrapur,Maharashtra,West,0405006
+Chatrapati Sambhaji Nagar,Aurangabad,Maharashtra,West,0405004
+Chennai,Chennai,Tamil Nadu,South,0305001
+Coimbatore,Coimbatore,Tamil Nadu,South,0305002
+Cuttack,Cuttack,Odisha,East,0506003
+Darbhanga,Darbhanga,Bihar,East,0502006
+Davanagere,Davanagere,Karnataka,South,0302008
+Dehradun,Dehradun,Uttarakhand,North,0208001
+Delhi,Delhi,Delhi,Delhi NCR,0101001
+Deoghar,Deoghar,Jharkhand,East,0504002
+Deoria,Deoria,Uttar Pradesh,North,0207010
+Dewas,Dewas,Madhya Pradesh,West,0404002
+Dhanbad,Dhanbad,Jharkhand,East,0504003
+Dharamshala,Dharamshala,Himachal Pradesh,North,0203002
+Dharwad,Dharwad,Karnataka,South,0302009
+Dibrugarh,Dibrugarh,Assam,East,0501001
+Durg,Durg,Chhattisgarh,East,0503003
+Durgapur,Durgapur,West Bengal,East,0507006
+Eluru,Eluru,Andhra Pradesh,South,0301003
+Erode,Erode,Tamil Nadu,South,0305003
+Etawah,Etawah,Uttar Pradesh,North,0207011
+Faridabad,Faridabad,Haryana,Delhi NCR,0102001
+Farrukhabad,Farrukhabad,Uttar Pradesh,North,0207012
+Fatehpur,Fatehpur,Uttar Pradesh,North,0207013
+Firozabad,Firozabad,Uttar Pradesh,North,0207014
+Firozpur,Chandigarh,Chandigarh,North,0201001
+Gandhidham,Gandhidham,Gujarat,West,0403007
+Gaya,Gaya,Bihar,East,0502007
+Ghaziabad,Ghaziabad,Uttar Pradesh,Delhi NCR,0103002
+Goa,Goa,Goa,West,0402001
+Gonda,Gonda,Uttar Pradesh,North,0207016
+Gorakhpur,Gorakhpur,Uttar Pradesh,North,0207017
+Gulbarga,Gulbarga,Karnataka,South,0302010
+Guntur,Guntur,Andhra Pradesh,South,0301004
+Gurgaon,Gurgaon,Haryana,Delhi NCR,0102003
+Gurugram,Gurgaon,Haryana,Delhi NCR,0102003
+Guwahati,Guwahati,Assam,East,0501002
+Gwalior,Gwalior,Madhya Pradesh,West,0404003
+Haldwani,Haldwani,Uttarakhand,North,0208002
+Hamirpur,Hamirpur,Himachal Pradesh,North,0203003
+Hapur,Hapur,Uttar Pradesh,North,0207018
+HARDOI,Hardoi,Uttar Pradesh,North,0207019
+Haridwar,Haridwar,Uttarakhand,North,0208003
+Hassan,Hassan,Karnataka,South,0302011
+Hazaribagh,Hazaribagh,Jharkhand,East,0504005
+Hisar,Hisar,Haryana,North,0202007
+Hoshiarpur,Chandigarh,Chandigarh,North,0201001
+Hosur,Hosur,Tamil Nadu,South,0305004
+Hubballi,Hubli,Karnataka,South,0302013
+Hubli,Hubli,Karnataka,South,0302013
+Hyderabad,Hyderabad,Telangana,South,0306001
+Indore,Indore,Madhya Pradesh,West,0404004
+Jabalpur,Jabalpur,Madhya Pradesh,West,0404005
+Jaipur,Jaipur,Rajasthan,West,0406007
+Jalandhar,Chandigarh,Chandigarh,North,0201001
+Jalgaon,Jalgaon,Maharashtra,West,0405007
+Jammu,Jammu,Jammu & Kashmir,North,0204001
+Jamnagar,Jamnagar,Gujarat,West,0403009
+Jamshedpur,Jamshedpur,Jharkhand,East,0504006
+Jaunpur,Jaunpur,Uttar Pradesh,North,0207020
+Jhansi,Jhansi,Uttar Pradesh,North,0207021
+Jind,Jind,Haryana,North,0202009
+Jodhpur,Jodhpur,Rajasthan,West,0406008
+Junagadh,Junagadh,Gujarat,West,0403010
+Kaithal,Kaithal,Haryana,North,0202010
+Kakinada,Kakinada,Andhra Pradesh,South,0301006
+Kalol,Kalol,Gujarat,West,0403011
+Kanchipuram,Kanchipuram,Tamil Nadu,South,0305005
+Kanpur,Kanpur,Uttar Pradesh,North,0207022
+Kapurthala,Chandigarh,Chandigarh,North,0201001
+Karaikkudi,Karaikkudi,Tamil Nadu,South,0305006
+Karimnagar,Karimnagar,Telangana,South,0306002
+Karnal,Karnal,Haryana,North,0202011
+Karur,Karur,Tamil Nadu,South,0305007
+Kashipur,Kashipur,Uttarakhand,North,0208004
+Khammam,Khammam,Telangana,South,0306003
+Khanna,Chandigarh,Chandigarh,North,0201001
+Kharagpur,Kharagpur,West Bengal,East,0507007
+Kharar,Chandigarh,Chandigarh,North,0201001
+Kochi,Kochi,Kerala,South,0303003
+Kolhapur,Kolhapur,Maharashtra,West,0405008
+Kolkata,Kolkata,West Bengal,East,0507008
+Kollam,Kollam,Kerala,South,0303004
+Kota,Kota,Rajasthan,West,0406009
+Kotdwar,Kotdwar,Uttarakhand,North,0208005
+Kottayam,Kottayam,Kerala,South,0303005
+Kozhikode,Kozhikode,Kerala,South,0303006
+Kurnool,Kurnool,Andhra Pradesh,South,0301007
+Kurukshetra,Kurukshetra,Haryana,North,0202012
+Lakhimpur,Lakhimpur,Uttar Pradesh,North,0207023
+Latur,Latur,Maharashtra,West,0405009
+Lonavala,Lonavala,Maharashtra,West,0405010
+Lucknow,Lucknow,Uttar Pradesh,North,0207024
+Ludhiana,Chandigarh,Chandigarh,North,0201001
+Madurai,Madurai,Tamil Nadu,South,0305008
+Mainpuri,Mainpuri,Uttar Pradesh,North,0207025
+Manali,Manali,Himachal Pradesh,North,0203004
+Mangalore,Mangalore,Karnataka,South,0302015
+Mangaluru,Mangalore,Karnataka,South,0302015
+Manipal,Manipal,Karnataka,South,0302016
+Mathura,Mathura,Uttar Pradesh,North,0207026
+Meerut,Meerut,Uttar Pradesh,North,0207027
+Mehsana,Mehsana,Gujarat,West,0403012
+Modinagar,Modinagar,Uttar Pradesh,North,0207029
+Moga,Chandigarh,Chandigarh,North,0201001
+Mohali,Chandigarh,Chandigarh,North,0201001
+Moradabad,Moradabad,Uttar Pradesh,North,0207030
+Morbi,Morbi,Gujarat,West,0403013
+Mumbai,Mumbai,Maharashtra,West,0405011
+Muradnagar,Muradnagar,Uttar Pradesh,North,0207031
+Muzaffarnagar,Muzaffarnagar,Uttar Pradesh,North,0207032
+Muzaffarpur,Muzaffarpur,Bihar,East,0502010
+Mysore,Mysore,Karnataka,South,0302017
+Mysuru,Mysore,Karnataka,South,0302017
+Nadiad,Nadiad,Gujarat,West,0403014
+Nagercoil,Nagercoil,Tamil Nadu,South,0305009
+Nagpur,Nagpur,Maharashtra,West,0405012
+Nanded,Nanded,Maharashtra,West,0405013
+Narmadapuram,Narmadapuram,Madhya Pradesh,West,0404006
+Nashik,Nashik,Maharashtra,West,0405014
+Navsari,Navsari,Gujarat,West,0403015
+Nellore,Nellore,Andhra Pradesh,South,0301008
+New Chandigarh,Chandigarh,Chandigarh,North,0201001
+Nizamabad,Nizamabad,Telangana,South,0306004
+Noida,Noida,Uttar Pradesh,Delhi NCR,0103003
+Noida 1,Ghaziabad,Uttar Pradesh,Delhi NCR,0103002
+Ongole,Ongole,Andhra Pradesh,South,0301009
+Palakkad,Palakkad,Kerala,South,0303007
+Palanpur,Palanpur,Gujarat,West,0403016
+Palwal,Palwal,Haryana,North,0202013
+Panchkula,Panchkula,Haryana,North,0202014
+Panipat,Panipat,Haryana,North,0202015
+Pathankot,Chandigarh,Chandigarh,North,0201001
+Patiala,Chandigarh,Chandigarh,North,0201001
+Patna,Patna,Bihar,East,0502011
+Phagwara,Chandigarh,Chandigarh,North,0201001
+Pinjore,Pinjore,Himachal Pradesh,North,0203005
+Pondicherry,Pondicherry,Puducherry,South,0304001
+Prayagraj,Allahabad,Uttar Pradesh,North,0207003
+Puducherry,Pondicherry,Puducherry,South,0304001
+Pune,Pune,Maharashtra,West,0405015
+Puri,Puri,Odisha,East,0506004
+Purnia,Purnia,Bihar,East,0502012
+Raebareli,Raebareli,Uttar Pradesh,North,0207035
+Raichur,Raichur,Karnataka,South,0302018
+Raipur,Raipur,Chhattisgarh,East,0503004
+Rajahmundry,Rajahmundry,Andhra Pradesh,South,0301010
+Rajkot,Rajkot,Gujarat,West,0403017
+Rajpura,Chandigarh,Chandigarh,North,0201001
+Rampur,Rampur,Uttar Pradesh,North,0207036
+Ranchi,Ranchi,Jharkhand,East,0504008
+Ratlam,Ratlam,Madhya Pradesh,West,0404007
+Rewa,Rewa,Madhya Pradesh,West,0404008
+Rewari,Rewari,Haryana,North,0202016
+Rishikesh,Rishikesh,Uttarakhand,North,0208006
+Rohtak,Rohtak,Haryana,North,0202017
+Roorkee,Roorkee,Uttarakhand,North,0208007
+Rudrapur,Rudrapur,Uttarakhand,North,0208008
+rwb_102_wh_hl_01,Unknown,Unknown,Unknown,0601001
+rwb_107_wh_hl_01,Unknown,Unknown,Unknown,0601001
+Saharanpur,Saharanpur,Uttar Pradesh,North,0207037
+Salem,Salem,Tamil Nadu,South,0305010
+Sangli,Sangli,Maharashtra,West,0405016
+Sangrur,Chandigarh,Chandigarh,North,0201001
+SAS Nagar,Chandigarh,Chandigarh,North,0201001
+Satara,Satara,Maharashtra,West,0405017
+Satna,Satna,Madhya Pradesh,West,0404009
+Shahjahanpur,Shahjahanpur,Uttar Pradesh,North,0207038
+Shillong,Shillong,Meghalaya,East,0505001
+Shimoga,Shimoga,Karnataka,South,0302019
+Shivamogga,Shimoga,Karnataka,South,0302019
+Sikar,Sikar,Rajasthan,West,0406010
+Silchar,Silchar,Assam,East,0501003
+Siliguri,Siliguri,West Bengal,East,0507009
+Sirsa,Sirsa,Haryana,North,0202018
+Sitapur,Sitapur,Uttar Pradesh,North,0207040
+Solan,Solan,Himachal Pradesh,North,0203006
+Solapur,Solapur,Maharashtra,West,0405019
+Sonipat,Sonipat,Haryana,North,0202019
+Sri Ganganagar,Sri Ganganagar,Rajasthan,West,0406011
+Sundar Nagar,Sundar Nagar,Himachal Pradesh,North,0203007
+Surat,Surat,Gujarat,West,0403018
+Thanjavur,Thanjavur,Tamil Nadu,South,0305011
+Thiruvalla,Thiruvalla,Kerala,South,0303008
+Thiruvallur,Thiruvallur,Tamil Nadu,South,0305012
+Thiruvananthapuram,Trivandrum,Kerala,South,0303010
+Thoothukudi,Thoothukudi,Tamil Nadu,South,0305013
+Thrissur,Thrissur,Kerala,South,0303009
+Tiruchirappalli,Trichy,Tamil Nadu,South,0305016
+Tirunelveli,Tirunelveli,Tamil Nadu,South,0305014
+Tirupati,Tirupati,Andhra Pradesh,South,0301011
+Tirupur,Tirupur,Tamil Nadu,South,0305015
+Trichy,Trichy,Tamil Nadu,South,0305016
+Trivandrum,Trivandrum,Kerala,South,0303010
+Tumakuru,Tumkur,Karnataka,South,0302020
+Tumkur,Tumkur,Karnataka,South,0302020
+Tumkuru,Tumkur,Karnataka,South,0302020
+Udaipur,Udaipur,Rajasthan,West,0406012
+Udupi,Udupi,Karnataka,South,0302021
+Ujjain,Ujjain,Madhya Pradesh,West,0404010
+Una,Una,Himachal Pradesh,North,0203008
+Unnao,Unnao,Uttar Pradesh,North,0207041
+Vadodara,Vadodara,Gujarat,West,0403019
+Vadodra,Vadodara,Gujarat,West,0403019
+Valsad,Valsad,Gujarat,West,0403020
+Vapi,Vapi,Gujarat,West,0403021
+Varanasi,Varanasi,Uttar Pradesh,North,0207042
+Vellore,Vellore,Tamil Nadu,South,0305017
+Vijayawada,Vijayawada,Andhra Pradesh,South,0301012
+Vijayawada-Guntur,Vijayawada,Andhra Pradesh,South,0301012
+Visakhapatnam,Visakhapatnam,Andhra Pradesh,South,0301013
+Vizag,Visakhapatnam,Andhra Pradesh,South,0301013
+Vizianagaram,Vizianagaram,Andhra Pradesh,South,0301014
+Vrindavan,Vrindavan,Uttar Pradesh,North,0207043
+Warangal,Warangal,Telangana,South,0306005
+Wardha,Wardha,Maharashtra,West,0405020
+Yamunanagar,Yamunanagar,Haryana,North,0202020
+Zirakpur,Chandigarh,Chandigarh,North,0201001
+CPC,Unknown,Unknown,Unknown,0601001
+Dasna,Dasna,Uttar Pradesh,Delhi NCR,0103001
+Farukhnagar,Farukhnagar,Haryana,Delhi NCR,0102002
+Jhajjar,Jhajjar,Haryana,North,0202008
+Kundli,Kundli,Haryana,Delhi NCR,0102004
+Bengal,Bengal,West Bengal,East,0507003
+Kochi Rural,Kochi,Kerala,South,0303003
+Hyderabad Rural,Hyderabad,Telangana,South,0306001
+Varansi,Varanasi,Uttar Pradesh,North,0207042
+Ludhiyana,Chandigarh,Chandigarh,North,0201001
+Ballabhgarh,Ballabhgarh,Haryana,North,0202003
+Gurgaon,Gurgaon,Haryana,North,0202006
+Gujarat,Gandhinagar,Gujarat,West,0403008
+Bhiwandi,Bhiwandi,Maharashtra,West,0405005
+Mumbai Rural,Mumbai,Maharashtra,West,0405011
+Chandigarh Tricity,Chandigarh,Chandigarh,North,0201001
+Chennai Rural,Chennai,Tamil Nadu,South,0305001
+Nagpur Rural,Nagpur,Maharashtra,West,0405012
+Vijayawada-Guntur,Vijayawada,Andhra Pradesh,South,0301012
+Ahmedabad-Gandhinagar,Ahmedabad,Gujarat,West,0403001
+Lucknow-Kanpur,Lucknow,Uttar Pradesh,North,0207024
+Chandigarh Tricity,Chandigarh,Chandigarh,North,0201001
+Noida-Ghaziabad,Noida,Uttar Pradesh,North,0207033
+Bhubaneshwar-Cuttack,Bhubaneswar,West Bengal,East,0507004
+BANGALORE_2,Bangalore,Karnataka,South,0302002
+Anantapur,Anantapur,Andhra Pradesh,South,0301001
+Vikasnagar,Vikasnagar,Uttarakhand,North,0208009
+Bihar Sharif,Bihar Sharif,Bihar,East,0502005
+Amroha,Amroha,Uttar Pradesh,North,0207004
+Bharatpur,Bharatpur,Rajasthan,West,0406003
+UK,Dehradun,Uttarakhand,North,0208001
+Odisha,Bhubaneswar,Odisha,East,0506002
+Maharashtra,Mumbai,Maharashtra,West,0405011
+Andhra Pradesh,Hyderabad,Andhra Pradesh,South,0301005
+lud_104_wh_hl_01,Unknown,Unknown,Unknown,0601001
+Kannur,Kannur,Kerala,South,0303002
+Katihar,Katihar,Bihar,East,0502008
+Giridih,Giridih,Jharkhand,East,0504004
+Faridkot,Faridkot,Punjab,North,0205001
+Yavatmal,Yavatmal,Maharashtra,West,0405021
+Charkhi Dadri,Charkhi Dadri,Haryana,North,0202005
+Silvassa,Silvassa,Dadra and Nagar Haveli and Daman and Diu,West,0401001
+Mirzapur,Mirzapur,Uttar Pradesh,North,0207028
+Bettiah,Bettiah,Bihar,East,0502002
+Tamil Nadu,Chennai,Tamil Nadu,South,0305001
+var_107_wh_hl_01,Unknown,Unknown,Unknown,0601001
+jam_101_wh_hl_01,Unknown,Unknown,Unknown,0601001
+jam_105_wh_hl_01,Unknown,Unknown,Unknown,0601001
+Chitradurga,Chitradurga,Karnataka,South,0302007
+Shirdi,Shirdi,Maharashtra,West,0405018
+Mandya,Mandya,Karnataka,South,0302014
+Karnataka,Bangalore,Karnataka,South,0302002
+UP,Lucknow,UP,North,0206001
+Punjab,Chandigarh,Chandigarh,North,0201001
+Hosapete,Hospet,Karnataka,South,0302012
+Bolpur,Bolpur,West Bengal,East,0507005
+Samastipur,Samastipur,Bihar,East,0502013
+Motihari,Motihari,Bihar,East,0502009
+Chikkamagaluru,Chikkamagaluru,Karnataka,South,0302006
+Basti,Basti,Uttar Pradesh,North,0207008
+Shikohabad,Shikohabad,Uttar Pradesh,North,0207039
+Pilibhit,Pilibhit,Uttar Pradesh,North,0207034
+Ramgarh,Ramgarh,Jharkhand,East,0504007
+Bhilwara,Bhilwara,Rajasthan,West,0406004
+Lonavla,Lonavala,Maharashtra,West,0405010
+Ghazipur,Ghazipur,Uttar Pradesh,North,0207015
+deh_106_wh_hl_01,Unknown,Unknown,Unknown,0601001
+far_109_wh_hl_01,Unknown,Unknown,Unknown,0601001
+kol_189_wh_hl_01,Unknown,Unknown,Unknown,0601001
+che_179_wh_hl_01,Unknown,Unknown,Unknown,0601001
+ghz_112_wh_hl_01,Unknown,Unknown,Unknown,0601001
+che_150_wh_hl_01,Unknown,Unknown,Unknown,0601001
+lud_102_wh_hl_01,Unknown,Unknown,Unknown,0601001
+var_108_wh_hl_01,Unknown,Unknown,Unknown,0601001
