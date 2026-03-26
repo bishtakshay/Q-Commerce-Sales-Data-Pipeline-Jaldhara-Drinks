@@ -186,4 +186,4 @@ ORDER BY f.region, units DESC;
 ## Author
 
 **Akshay Bisht**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/akshaybisht10/) · [GitHub](https://github.com/bishtakshay)
