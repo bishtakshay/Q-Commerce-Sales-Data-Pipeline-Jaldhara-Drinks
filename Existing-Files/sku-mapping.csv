@@ -1,4 +1,4 @@
-﻿Sumo ID,Category,SKU,MRP,Blinkit Identifier,Status,Instamart Identifier,Status,Zepto Identifier,Status,FKM Identifier,Status,BB Identifier,Status
+﻿internal_sku_id,Category,SKU,MRP,Blinkit Identifier,Status,Instamart Identifier,Status,Zepto Identifier,Status,FKM Identifier,Status,BB Identifier,Status
 2310,Lemonade,Jaldhara Nimbu Shikanji Mix 90g,129,16777627,Live,,Not - Live,e60c96b4-afc6-47cd-a732-3317572ba370,Live,COOLHGI1JNYT7RPW,Live,43635493,Live
 3814,Lemonade,Jaldhara Nimbu Shikanji Mix 225g,189,16274339,Live,962270,Live,73316a9f-0bfe-41ae-8a77-1c4b6647ffa1,Live,COOLNYFX4M8T1QOJ,Live,40127838,Live
 4102,Lemonade,Jaldhara Nimbu Shikanji Mix 450g,349,17133772,Live,313662,Live,b5e8fcfb-d267-4df8-b54c-1154b6a01027,Live,,Not - Live,,Not - Live
@@ -18,34 +18,34 @@
 5800,Snacks,Jaldhara Roasted Makhana,140,14956011,Live,991767,Live,fdec87fa-2eeb-453e-97c0-7b2b23023665,Live,,Not - Live,,Not - Live
 6100,Gift Box,Jaldhara Summer Fiesta Gift Box,499,14240080,Discontinue,,Discontinue,,Discontinue,,Discontinue,44368015,Discontinue
 6101,Lemonade,Jaldhara Nimbu Shikanji Low Sugar Mix 90g,129,15467797,Discontinue,,Discontinue,,Discontinue,,Discontinue,49244038,Discontinue
-6102,Energy Mix,Jaldhara Gur Shikanji Premix Pack of 15,149,13240186,Live,191417,Live,,Not - Live,,Not - Live,,Not - Live
+6102,Energy Mix,Jaldhara Gur Shikanji Premix Pack of 15,149,13240186,Discontinue,191417,Discontinue,,Discontinue,,Discontinue,,Discontinue
 6103,Gift Box,Jaldhara Mango Festival Gift Box,499,14034811,Discontinue,,Discontinue,,Discontinue,,Discontinue,,Discontinue
-6104,Lemonade,Jaldhara Kala Namak Lemonade Regular Sugar Mix,129,13310385,Discontinue,,Discontinue,,Discontinue,,Discontinue,,Discontinue
-6105,Snacks,Jaldhara Roasted Mathri Snacks,120,11930429,Live,447591,Live,,Not - Live,,Not - Live,,Not - Live
-6106,Sherbet,Jaldhara Premium Kokum Sherbet 450g,199,,Not - Live,507427,Live,18ba72ef-e1b6-4982-a8c6-a6460cf36191,Live,COOLK89IUXAK4R2G,Live,,Not - Live
-6107,Lemonade,Jaldhara Premium Shikanji Blend,149,,Not - Live,976288,Live,,Not - Live,,Not - Live,,Not - Live
-6108,Sherbet,Jaldhara Hibiscus Cooler Mixs 25 pcs,179,,Not - Live,437098,Live,9de5c6f0-1042-40b7-9c06-c5f48dc42b15,Live,,Not - Live,,Not - Live
-6109,Snacks,Jaldhara Bhakarwadi Snack,99,,Not - Live,223006,Live,,Not - Live,,Not - Live,,Not - Live
-6110,Gift Box,Jaldhara Green Summer Gift Box,599,,Not - Live,,Not - Live,,Not - Live,,Not - Live,48958500,Live
-6111,Gift Box,Jaldhara Pink Summer Gift Box Set of 5,799,,Not - Live,,Not - Live,,Not - Live,,Not - Live,47879658,Live
-6112,Energy Mix,Jaldhara Combo Mix Box Mango & Lemon,199,,Not - Live,,Not - Live,af512897-cb97-49a2-b495-20d4648773b1,Live,,Not - Live,,Not - Live
+6104,Lemonade,Jaldhara Kala Namak Lemonade Regular Sugar Mix,129,13310385,Discontinue,291757,Discontinue,,Discontinue,,Discontinue,,Discontinue
+6105,Snacks,Jaldhara Roasted Mathri Snacks,120,11930429,Discontinue,447591,Discontinue,,Discontinue,,Discontinue,,Discontinue
+6106,Sherbet,Jaldhara Premium Kokum Sherbet 450g,199,,Discontinue,507427,Discontinue,18ba72ef-e1b6-4982-a8c6-a6460cf36191,Discontinue,COOLK89IUXAK4R2G,Discontinue,,Discontinue
+6107,Lemonade,Jaldhara Premium Shikanji Blend,149,,Discontinue,976288,Discontinue,,Discontinue,,Discontinue,,Discontinue
+6108,Sherbet,Jaldhara Hibiscus Cooler Mixs 25 pcs,179,,Discontinue,437098,Discontinue,9de5c6f0-1042-40b7-9c06-c5f48dc42b15,Discontinue,,Discontinue,,Discontinue
+6109,Snacks,Jaldhara Bhakarwadi Snack,99,,Discontinue,223006,Discontinue,,Discontinue,,Discontinue,,Discontinue
+6110,Gift Box,Jaldhara Green Summer Gift Box,599,,Discontinue,,Discontinue,,Discontinue,,Discontinue,48958500,Discontinue
+6111,Gift Box,Jaldhara Pink Summer Gift Box Set of 5,799,,Discontinue,,Discontinue,,Discontinue,,Discontinue,47879658,Discontinue
+6112,Energy Mix,Jaldhara Combo Mix Box Mango & Lemon,199,,Discontinue,,Discontinue,af512897-cb97-49a2-b495-20d4648773b1,Discontinue,,Discontinue,,Discontinue
 6200,Lemonade,Jaldhara Nimbu Shikanji 180g Sachet Box,169,,Discontinue,,Discontinue,,Discontinue,,Discontinue,,Discontinue
 6201,Iced Mix,Jaldhara Kala Khatta Iced Drink Mix,89,,Discontinue,,Discontinue,,Discontinue,,Discontinue,,Discontinue
-6300,Fresh Drinks,Jaldhara Fresh Lemonade,49,,Not - Live,,Not - Live,1f4b8527-20ba-4a79-9367-3e012e53bfd8,Live,,Not - Live,,Not - Live
-6301,Fresh Drinks,Jaldhara Fresh Lemonade (No Sugar),49,,Not - Live,,Not - Live,7247adf0-47df-436a-8e9c-8b73c46c2b27,Live,,Not - Live,,Not - Live
-6302,Fresh Drinks,Jaldhara Fresh Aam Panna,49,,Not - Live,,Not - Live,b184cf75-2ebc-44b7-a3d0-676206251468,Live,,Not - Live,,Not - Live
-6303,Fresh Drinks,Jaldhara Fresh Aam Panna (No Sugar),49,,Not - Live,,Not - Live,fcab43e3-b979-47c4-b03b-39b75d8585d9,Live,,Not - Live,,Not - Live
-6304,Fresh Drinks,Jaldhara Spiced Lemonade,49,,Not - Live,,Not - Live,740af86a-f183-4b7f-aee0-4cc22b3416c3,Live,,Not - Live,,Not - Live
-6305,Fresh Drinks,Jaldhara Spiced Lemonade (No Sugar),49,,Not - Live,,Not - Live,764e63c4-389d-4cae-8993-ed2b2de50dc3,Live,,Not - Live,,Not - Live
-6306,Fresh Drinks,Jaldhara Masala Lemonade,49,,Not - Live,,Not - Live,3e661986-1219-4057-84ae-51099ddb515d,Live,,Not - Live,,Not - Live
-6307,Fresh Drinks,Jaldhara Fresh Nimbu Pani (No Sugar),49,,Not - Live,,Not - Live,bc5bca58-4edd-40a4-a0f8-8409268c61a6,Live,,Not - Live,,Not - Live
-6308,Fresh Drinks,Jaldhara Lemon Iced Drink 300ml,59,,Not - Live,,Not - Live,fef57b76-2509-499f-b4ae-813616f909f0,Live,,Not - Live,,Not - Live
-6309,Snacks,Jaldhara Veg Puff,35,,Not - Live,,Not - Live,6bb417fc-f710-4098-9976-f5c0fca97c6b,Live,,Not - Live,,Not - Live
-6310,Snacks,Jaldhara Chicken Puff,40,,Not - Live,,Not - Live,785d65ba-6445-4fdb-bbd8-cb39677ebdec,Live,,Not - Live,,Not - Live
-6311,Snacks,Jaldhara Butter Toast,30,,Not - Live,,Not - Live,19530c84-a7c1-45af-920c-7232907594de,Live,,Not - Live,,Not - Live
-6312,Snacks,Jaldhara Masala Papad,25,,Not - Live,,Not - Live,97ec9036-3284-44b7-be20-cfe2d2e386cb,Live,,Not - Live,,Not - Live
-6313,Snacks,Jaldhara Poha Snack Box,45,,Not - Live,,Not - Live,c5f6c5ca-0ef4-45db-8630-d346a76e02da,Live,,Not - Live,,Not - Live
-6314,Energy Mix,Jaldhara Lemon Ginger Cooler Mix Pack of 5,55,,Not - Live,,Not - Live,0b355c87-efa2-4605-ba95-8ba7cdbc6f1c,Live,,Not - Live,,Not - Live
-6315,Energy Mix,Jaldhara Kala Namak Mix Pack of 5,55,,Not - Live,,Not - Live,2fc222a2-cb51-436c-9f35-4132665ffa42,Live,,Not - Live,,Not - Live
-7013,Snacks,Jaldhara Veg Puff,39,,Not - Live,,Not - Live,6bb417fc-f710-4098-9976-f5c0fca97c6b,Live,,Not - Live,,Not - Live
-7014,Snacks,Jaldhara Chicken Puff,49,,Not - Live,,Not - Live,785d65ba-6445-4fdb-bbd8-cb39677ebdec,Live,,Not - Live,,Not - Live
+6300,Fresh Drinks,Jaldhara Fresh Lemonade,49,,Discontinue,,Discontinue,1f4b8527-20ba-4a79-9367-3e012e53bfd8,Discontinue,,Discontinue,,Discontinue
+6301,Fresh Drinks,Jaldhara Fresh Lemonade (No Sugar),49,,Discontinue,,Discontinue,7247adf0-47df-436a-8e9c-8b73c46c2b27,Discontinue,,Discontinue,,Discontinue
+6302,Fresh Drinks,Jaldhara Fresh Aam Panna,49,,Discontinue,,Discontinue,b184cf75-2ebc-44b7-a3d0-676206251468,Discontinue,,Discontinue,,Discontinue
+6303,Fresh Drinks,Jaldhara Fresh Aam Panna (No Sugar),49,,Discontinue,,Discontinue,fcab43e3-b979-47c4-b03b-39b75d8585d9,Discontinue,,Discontinue,,Discontinue
+6304,Fresh Drinks,Jaldhara Spiced Lemonade,49,,Discontinue,,Discontinue,740af86a-f183-4b7f-aee0-4cc22b3416c3,Discontinue,,Discontinue,,Discontinue
+6305,Fresh Drinks,Jaldhara Spiced Lemonade (No Sugar),49,,Discontinue,,Discontinue,764e63c4-389d-4cae-8993-ed2b2de50dc3,Discontinue,,Discontinue,,Discontinue
+6306,Fresh Drinks,Jaldhara Masala Lemonade,49,,Discontinue,,Discontinue,3e661986-1219-4057-84ae-51099ddb515d,Discontinue,,Discontinue,,Discontinue
+6307,Fresh Drinks,Jaldhara Fresh Nimbu Pani (No Sugar),49,,Discontinue,,Discontinue,bc5bca58-4edd-40a4-a0f8-8409268c61a6,Discontinue,,Discontinue,,Discontinue
+6308,Fresh Drinks,Jaldhara Lemon Iced Drink 300ml,59,,Discontinue,,Discontinue,fef57b76-2509-499f-b4ae-813616f909f0,Discontinue,,Discontinue,,Discontinue
+6309,Snacks,Jaldhara Veg Puff,35,,Discontinue,,Discontinue,6bb417fc-f710-4098-9976-f5c0fca97c6b,Discontinue,,Discontinue,,Discontinue
+6310,Snacks,Jaldhara Chicken Puff,40,,Discontinue,,Discontinue,785d65ba-6445-4fdb-bbd8-cb39677ebdec,Discontinue,,Discontinue,,Discontinue
+6311,Snacks,Jaldhara Butter Toast,30,,Discontinue,,Discontinue,19530c84-a7c1-45af-920c-7232907594de,Discontinue,,Discontinue,,Discontinue
+6312,Snacks,Jaldhara Masala Papad,25,,Discontinue,,Discontinue,97ec9036-3284-44b7-be20-cfe2d2e386cb,Discontinue,,Discontinue,,Discontinue
+6313,Snacks,Jaldhara Poha Snack Box,45,,Discontinue,,Discontinue,c5f6c5ca-0ef4-45db-8630-d346a76e02da,Discontinue,,Discontinue,,Discontinue
+6314,Energy Mix,Jaldhara Lemon Ginger Cooler Mix Pack of 5,55,,Discontinue,,Discontinue,0b355c87-efa2-4605-ba95-8ba7cdbc6f1c,Discontinue,,Discontinue,,Discontinue
+6315,Energy Mix,Jaldhara Kala Namak Mix Pack of 5,55,,Discontinue,,Discontinue,2fc222a2-cb51-436c-9f35-4132665ffa42,Discontinue,,Discontinue,,Discontinue
+7013,Snacks,Jaldhara Veg Puff,39,,Discontinue,,Discontinue,6bb417fc-f710-4098-9976-f5c0fca97c6b,Discontinue,,Discontinue,,Discontinue
+7014,Snacks,Jaldhara Chicken Puff,49,,Discontinue,,Discontinue,785d65ba-6445-4fdb-bbd8-cb39677ebdec,Discontinue,,Discontinue,,Discontinue
